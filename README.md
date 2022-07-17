@@ -23,6 +23,6 @@ cd dev-finance
 code .
 ```
 
-Fique a vontade para fazer alterações, mas primeiro, mude a branch 😉
+Fique a vontade para fazer alterações 😉
 
 [Acesse o projeto](https://sidney-cardoso.github.io/dev-finance/)
